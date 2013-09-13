@@ -1,17 +1,21 @@
-var player = transform;
+private var player : GameObject;
+
+function Awake() {
+	player = GameObject.FindWithTag("player");
+}
 
 function Update() {
 	if (Input.GetKey("d")) {
-		player.Translate(Vector3.right);
+		player.transform.Translate(Vector3.right);
 	}
 	else if (Input.GetKey("a")) {
-		player.Translate(Vector3.left);
+		player.transform.Translate(Vector3.left);
 	}
 	else if (Input.GetKey("w")) {
-		player.Translate(Vector3.forward);
+		player.transform.Translate(Vector3.forward);
 	}
 	else if (Input.GetKey("s")) {
-		player.Translate(Vector3.back);
+		player.transform.Translate(Vector3.back);
 	}
 	
 //	if (Input.GetKeyDown("space")) {
