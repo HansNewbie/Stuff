@@ -1,6 +1,6 @@
 var player = transform;
 
-function Update () {
+function Update() {
 	if (Input.GetKey("d")) {
 		player.Translate(Vector3.right);
 	}
