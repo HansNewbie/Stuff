@@ -1,5 +1,8 @@
 Explanations could be found at [http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial](http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial)
 
+###Version 0.2
+- Support Android
+
 ###Version 0.1
 - Color change for the platform to be more intuitive; red for slow down, green for speed up and background color gradient for normal platform
 
