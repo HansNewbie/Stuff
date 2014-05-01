@@ -1,5 +1,8 @@
 Explanations could be found at [http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial](http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial)
 
+###Version 0.4
+- Added high score record system
+
 ###Version 0.3
 - Added boost logo for better GUI
 
