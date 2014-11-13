@@ -1,5 +1,8 @@
 Explanations could be found at [http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial](http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial)
 
+###Version 0.6
+- Added background music
+
 ###Version 0.5
 - Added Pause system
 
