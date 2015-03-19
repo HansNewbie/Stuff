@@ -1,5 +1,10 @@
 Explanations could be found at [http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial](http://ideascomecheap.blogspot.com/search/label/Unity%20Endless%20Runner%20Tutorial)
 
+###Version 0.6.1
+- Added background music mute option
+- Corrected boost number placing so will be same placing on different screen sizes
+- Added high score background
+
 ###Version 0.6
 - Added background music
 
